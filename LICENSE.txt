@@ -1,0 +1,15 @@
+Copyright © 2025 Lisa Kikuchi
+
+This project is provided for personal, educational, and portfolio purposes only.
+
+You may:
+- View and explore the source code
+- Learn from the structure and implementation
+- Copy and modify the code locally for personal use
+
+You may not:
+- Distribute, publish, or reuse this code in public projects
+- Claim this project or its code as your own
+- Use this code in any commercial product or service
+
+For questions or permission requests, please contact me directly.
