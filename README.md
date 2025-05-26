@@ -1,8 +1,7 @@
 # 📒 Diary App
 
 ## 🎥 Recording
-is available here:  
-https://drive.google.com/file/d/1s2RmA1c8xPMisumzWbopbjISP_aCBOQg/view?usp=sharing
+is available [here](https://drive.google.com/file/d/1CL5XtNCXyJb32I2vhTNM7kE3pr_FhMpH/view?usp=sharing)
 
 ## 🔧 Tech Stack
 - Frontend: React Native
