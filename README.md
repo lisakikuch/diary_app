@@ -1,4 +1,4 @@
-# 📒 Diary App
+# 📒 ReflectNote
 
 ## 🎥 Recording
 is available [here](https://drive.google.com/file/d/1CL5XtNCXyJb32I2vhTNM7kE3pr_FhMpH/view?usp=sharing)
@@ -8,7 +8,7 @@ is available [here](https://drive.google.com/file/d/1CL5XtNCXyJb32I2vhTNM7kE3pr_
 - Backend: Express.js, MySQL
 
 ## 📝 Description
-This app lets users write diary entries, assign multiple tags (like “Work”, “Travel”, “Thoughts”), and choose a mood for each one. Users can also filter entries by tags and see when each entry was created or last updated.  
+This is a diary app that lets users write diary entries, assign multiple tags (like “Work”, “Travel”, “Thoughts”), and choose a mood for each one. Users can also filter entries by tags and see when each entry was created or last updated.  
 
 On the frontend, I used **useContext** and **useReducer** to manage state locally. This means the UI updates instantly when something changes, without needing to re-fetch everything from the server, making the app feel smoother and more responsive. I alse used **Navigation** for a smooth transition between multiple screens.  
 
